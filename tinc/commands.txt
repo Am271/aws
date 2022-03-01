@@ -1,0 +1,9 @@
+$ tincd -c . -K
+
+The above command will generate the public and private keys.
+It requires a .conf file in the current directory and a 'hosts' folder to store the public key.
+
+$ sudo tincd -c . -D
+
+The above command will start the VPN.
+Press Ctrl+C to increase/decrease verbosity. Press Ctrl+\ to quit.

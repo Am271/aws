@@ -1,0 +1,11 @@
+Address = ec2-3-83-235-20.compute-1.amazonaws.com
+Subnet = 10.0.0.1/32
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA288/0lVKtEEmtJGnLSYC8NLwm0pke6p5w3gh39aCi2ciAD0pnHC6
+t/F0ZCykD5ww5nczx7GOGaclx0nFuKQJ6r+1Ca7f7M8bHWxlGvI9BrLd9ShyLXwP
+N5I2Z0OsVCh/jnrJk5QtrZtp3+u/R4KRK+TzUzlSzFOURoND6jJk3oIY5WN1QAxp
+vdnpL/FnV5s6Uv7Y8fnGTlidiSNc/dIVIpfwCtjMqRG1G8gZYzbdjmqttqZoFIlr
+WCOz+My+K1+TFvlDwTx3wj4woGgMxpyl1SEKtZmHZE9OnLqyGjLo+vWtlL8MPleL
+WdWYmO7Z8StkgUKA6/Ad1VG1SvUd5CCT8wIDAQAB
+-----END RSA PUBLIC KEY-----
