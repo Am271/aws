@@ -1,0 +1,18 @@
+# To start/enable wireguard
+systemctl start/enable wg-quick@wg0
+
+# To generate a private key
+wg genkey
+
+# To generate a public key
+wg pubkey
+
+# Inorder to generate a public key, the private key must be passed via a file like
+
+wg pubkey < private
+
+# Here, private is a text file containing the private key
+
+# or
+
+cat private | wg pubkey
