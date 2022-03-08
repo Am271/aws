@@ -16,3 +16,11 @@ wg pubkey < private
 # or
 
 cat private | wg pubkey
+
+# To setup forwarding edit /etc/sysctl.conf and set
+
+net.ipv4.ip_forward=1
+
+# Then run
+
+sudo sysctl -p
